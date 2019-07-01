@@ -13,7 +13,7 @@
             "id": 2,
             "shop": 1,
             "name": "Frech Fries",
-            "image": "frech-fries.jpg",
+            "image": "french-fries.jpg",
             "price": 5000,
             "description": "French Fries Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mattis varius metus nec sagittis. Nam ac neque velit.",
             "stock": 100
