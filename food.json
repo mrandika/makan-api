@@ -1,0 +1,31 @@
+{
+    "popular": [
+        {
+            "id": 1,
+            "shop": 1,
+            "name": "Burger",
+            "image": "burger.jpg",
+            "price": 15000,
+            "description": "Burger Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mattis varius metus nec sagittis. Nam ac neque velit.",
+            "stock": 100
+        },
+        {
+            "id": 2,
+            "shop": 1,
+            "name": "Frech Fries",
+            "image": "frech-fries.jpg",
+            "price": 5000,
+            "description": "French Fries Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mattis varius metus nec sagittis. Nam ac neque velit.",
+            "stock": 100
+        },
+        {
+            "id": 3,
+            "shop": 1,
+            "name": "Sphagetti",
+            "image": "spaghetti.jpg",
+            "price": 5000,
+            "description": "Sphagetti Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mattis varius metus nec sagittis. Nam ac neque velit.",
+            "stock": 100
+        }
+    ]
+}
