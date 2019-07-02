@@ -26,6 +26,114 @@
             "price": 5000,
             "description": "Sphagetti Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mattis varius metus nec sagittis. Nam ac neque velit.",
             "stock": 100
+        },
+        {
+            "id": 4,
+            "shop": 1,
+            "name": "Burger",
+            "image": "burger.jpg",
+            "price": 15000,
+            "description": "Burger Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mattis varius metus nec sagittis. Nam ac neque velit.",
+            "stock": 100
+        },
+        {
+            "id": 5,
+            "shop": 1,
+            "name": "Frech Fries",
+            "image": "french-fries.jpg",
+            "price": 5000,
+            "description": "French Fries Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mattis varius metus nec sagittis. Nam ac neque velit.",
+            "stock": 100
+        },
+        {
+            "id": 6,
+            "shop": 1,
+            "name": "Sphagetti",
+            "image": "spaghetti.jpg",
+            "price": 5000,
+            "description": "Sphagetti Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mattis varius metus nec sagittis. Nam ac neque velit.",
+            "stock": 100
+        },
+        {
+            "id": 7,
+            "shop": 1,
+            "name": "Burger",
+            "image": "burger.jpg",
+            "price": 15000,
+            "description": "Burger Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mattis varius metus nec sagittis. Nam ac neque velit.",
+            "stock": 100
+        },
+        {
+            "id": 8,
+            "shop": 1,
+            "name": "Frech Fries",
+            "image": "french-fries.jpg",
+            "price": 5000,
+            "description": "French Fries Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mattis varius metus nec sagittis. Nam ac neque velit.",
+            "stock": 100
+        },
+        {
+            "id": 9,
+            "shop": 1,
+            "name": "Sphagetti",
+            "image": "spaghetti.jpg",
+            "price": 5000,
+            "description": "Sphagetti Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mattis varius metus nec sagittis. Nam ac neque velit.",
+            "stock": 100
+        },
+        {
+            "id": 10,
+            "shop": 1,
+            "name": "Burger",
+            "image": "burger.jpg",
+            "price": 15000,
+            "description": "Burger Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mattis varius metus nec sagittis. Nam ac neque velit.",
+            "stock": 100
+        },
+        {
+            "id": 11,
+            "shop": 1,
+            "name": "Frech Fries",
+            "image": "french-fries.jpg",
+            "price": 5000,
+            "description": "French Fries Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mattis varius metus nec sagittis. Nam ac neque velit.",
+            "stock": 100
+        },
+        {
+            "id": 12,
+            "shop": 1,
+            "name": "Sphagetti",
+            "image": "spaghetti.jpg",
+            "price": 5000,
+            "description": "Sphagetti Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mattis varius metus nec sagittis. Nam ac neque velit.",
+            "stock": 100
+        },
+        {
+            "id": 13,
+            "shop": 1,
+            "name": "Burger",
+            "image": "burger.jpg",
+            "price": 15000,
+            "description": "Burger Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mattis varius metus nec sagittis. Nam ac neque velit.",
+            "stock": 100
+        },
+        {
+            "id": 14,
+            "shop": 1,
+            "name": "Frech Fries",
+            "image": "french-fries.jpg",
+            "price": 5000,
+            "description": "French Fries Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mattis varius metus nec sagittis. Nam ac neque velit.",
+            "stock": 100
+        },
+        {
+            "id": 15,
+            "shop": 1,
+            "name": "Sphagetti",
+            "image": "spaghetti.jpg",
+            "price": 5000,
+            "description": "Sphagetti Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mattis varius metus nec sagittis. Nam ac neque velit.",
+            "stock": 100
         }
     ]
 }
